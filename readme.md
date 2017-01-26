@@ -35,6 +35,8 @@ And run the application.
 
 You will find a `package.json` and a `Gulpfile.js` in the root of this template. You can install ColdBox elixir by typing
 
+**NOTE:** Please ensure you have npm 3 or newer - 3.10.10 is known to work. 2.15 is known to fail.
+
 ```
 npm install
 ```
